@@ -74,7 +74,7 @@
 
 ## Совместимость и протестированные среды
 Этот стек Docker должен работать со всем, на чем может быть установлен Docker. В частности, он был протестирован на:
-| | Windows 11 x86_64\amd64 | Linux Ubuntu x86_64\amd64 | Raspbian OS Arm64 | MacOS Intel x86_64 | Кремниевый рычаг MacOS64 |
+| | Windows 11 x86_64\amd64 | Linux Ubuntu x86_64\amd64 | Raspbian OS Arm64 | MacOS Intel x86_64 | MacOS silicon arm64 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Протестировано | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle:|
 | на устройстве | Настольный/ноутбук | Настольный/ноутбук | Малина Пи3/Пи4 | Макбук Про | Макбук Эйр |
