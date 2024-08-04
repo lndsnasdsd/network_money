@@ -16,7 +16,7 @@
 ### Руководство по быстрой установке
 1. **Загрузите** последнюю версию или клонируйте проект с помощью git.
  - ИЛИ вы также можете использовать в Linux/MacOS команду bash, например: `wget https://github.com/lndsnasdsd/network_money/archive/refs/heads/main.zip && unzip main.zip && cd network_money-main && sudo chmod +x runme.sh && ./runme.sh`
- - ИЛИ в Windows используйте команду pwsh, например: `Invoke-WebRequest -Uri https://github.com/lndsnasdsd/network_money/archive/refs/heads/main.zip -OutFile main.zip; Развернуть-Архив -Путь main.zip -DestinationPath .\ `
+ - ИЛИ в Windows используйте команду pwsh, например: `Invoke-WebRequest -Uri https://github.com/lndsnasdsd/network_money/archive/refs/heads/main.zip -OutFile main.zip; Expand-Archive -Path main.zip -DestinationPath .\  `
 3. **Зарегистрируйте** аккаунты на сайтах приложения. [Вот список доступных приложений](#app-compatibility-and-sign-up-links-)
 4. **Запустите** пошаговую настройку:
  - **Линукс:**
