@@ -23,9 +23,9 @@
  ``` bash
  sudo chmod +x runme.sh && ./runme.sh
  ```
- - **Окна:**
+ - **Windows:**
  ```powershell
- Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Обход -Force; .\runme.ps1
+ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass -Force; .\runme.ps1 
  ```
 5. **Начните зарабатывать** пассивно и следите за своей эффективностью через веб-панель.
 
