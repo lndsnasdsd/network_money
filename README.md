@@ -38,7 +38,6 @@
 
 | Название приложения и ссылка | Жилой/домашний/мобильный IP-адрес или эквивалентный IP-адрес прокси | VPS/Центр обработки данных/Хостинг/Облачный IP или эквивалентный IP-адрес прокси | Максимальное количество устройств на одну учетную запись | Максимальное количество устройств на IP |
 | :--- | :---: | :---: | :---: | :---: |
-| Перейдите в [Earnapp](https://earnapp.com/i/x1PlRhgX) | :white_check_mark: | :х: | 15|1|
 | Перейдите на [HoneyGain](https://r.honeygain.me/LNDSNB8F61) | :white_check_mark: | :x: |10|1|
 | Перейдите в [IPROYAL](https://pawns.app/?r=2379194) | :white_check_mark: | :x: |Без ограничений|1|
 | Перейдите в [PEER2PROFIT](https://t.me/peer2profit_app_bot?start=165849012262da8d0aa13c8) | :white_check_mark: | :white_check_mark: | Неограниченный|Неограниченный|
